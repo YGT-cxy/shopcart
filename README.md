@@ -17,3 +17,12 @@ npm run serve
 ```
 npm run build
 ```
+### Demo预览
+1. 购物车页面
+<img src="http://psf909yqh.bkt.clouddn.com/images/shopcart/shopcart-1.png">
+2. 选择商品后点击购物车图标的变化
+<img src="http://psf909yqh.bkt.clouddn.com/images/shopcart/shopcart-2.png">
+3. 提示框
+<img src="http://psf909yqh.bkt.clouddn.com/images/shopcart/shopcart-1.png">
+4. 加载框
+<img src="http://psf909yqh.bkt.clouddn.com/images/shopcart/shopcart-2.png" >
