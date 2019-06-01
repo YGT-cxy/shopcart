@@ -1,0 +1,336 @@
+{
+  "热销美食": [
+    {
+      "title": "麻辣烤肉",
+      "cateId": 10001,
+      "cateImg": "https://zjyegt.cn/shopping_mall/images/cate02.jpg",
+      "selling_price": 8,
+      "cateType": "烤肉",
+      "sales": 120
+    },
+    {
+      "title": "凉粉",
+      "cateId": 10003,
+      "cateImg": "https://zjyegt.cn/shopping_mall/images/cate03.jpg",
+      "selling_price": 10,
+      "cateType": "面饼",
+      "sales": 100
+    },
+    {
+      "title": "抹茶",
+      "cateId": 10007,
+      "cateImg": "https://zjyegt.cn/shopping_mall/images/cate04.jpg",
+      "selling_price": 12,
+      "cateType": "饮料",
+      "sales": 200
+    },
+    {
+      "title": "喵喵茶",
+      "cateId": 10008,
+      "cateImg": "https://zjyegt.cn/shopping_mall/images/cate05.jpg",
+      "selling_price": 20,
+      "cateType": "饮料",
+      "sales": 100
+    },
+    {
+      "title": "清肝美颜柠檬茶",
+      "cateId": 10009,
+      "cateImg": "https://zjyegt.cn/shopping_mall/images/cate06.jpg",
+      "selling_price": 20,
+      "cateType": "饮料",
+      "sales": 100
+    },
+    {
+      "title": "花胶乌鸡汤2",
+      "cateId": 10006,
+      "cateImg": "https://zjyegt.cn/shopping_mall/images/cate01.jpg",
+      "selling_price": 30,
+      "cateType": "汤面",
+      "sales": 120
+    },
+    {
+      "title": "麻辣烤肉2",
+      "cateId": 10002,
+      "cateImg": "https://zjyegt.cn/shopping_mall/images/cate02.jpg",
+      "selling_price": 28,
+      "cateType": "烤肉",
+      "sales": 120
+    },
+    {
+      "title": "辣鸡帝王蟹",
+      "cateId": 10010,
+      "cateImg": "https://zjyegt.cn/shopping_mall/images/cate11.jpg",
+      "selling_price": 100,
+      "cateType": "海鲜",
+      "sales": 100
+    },
+    {
+      "title": "花胶乌鸡汤",
+      "cateId": 10005,
+      "cateImg": "https://zjyegt.cn/shopping_mall/images/cate01.jpg",
+      "selling_price": 20,
+      "cateType": "汤面",
+      "sales": 100
+    },
+    {
+      "title": "孤单的面饼",
+      "cateId": 10004,
+      "cateImg": "https://zjyegt.cn/shopping_mall/images/cate12.jpg",
+      "selling_price": 30,
+      "cateType": "面饼",
+      "sales": 100
+    }
+  ],
+  "烤肉": [
+    {
+      "title": "麻辣烤肉",
+      "cateId": 10001,
+      "cateImg": "https://zjyegt.cn/shopping_mall/images/cate02.jpg",
+      "selling_price": 8,
+      "cateType": "烤肉",
+      "sales": 120
+    },
+    {
+      "title": "麻辣烤肉2",
+      "cateId": 10002,
+      "cateImg": "https://zjyegt.cn/shopping_mall/images/cate02.jpg",
+      "selling_price": 28,
+      "cateType": "烤肉",
+      "sales": 120
+    }
+  ],
+  "饮料": [
+    {
+      "title": "抹茶",
+      "cateId": 10007,
+      "cateImg": "https://zjyegt.cn/shopping_mall/images/cate04.jpg",
+      "selling_price": 12,
+      "cateType": "饮料",
+      "sales": 200
+    },
+    {
+      "title": "喵喵茶",
+      "cateId": 10008,
+      "cateImg": "https://zjyegt.cn/shopping_mall/images/cate05.jpg",
+      "selling_price": 20,
+      "cateType": "饮料",
+      "sales": 100
+    },
+    {
+      "title": "清肝美颜柠檬茶",
+      "cateId": 10009,
+      "cateImg": "https://zjyegt.cn/shopping_mall/images/cate06.jpg",
+      "selling_price": 20,
+      "cateType": "饮料",
+      "sales": 100
+    }
+  ],
+  "汤面": [
+    {
+      "title": "花胶乌鸡汤",
+      "cateId": 10005,
+      "cateImg": "https://zjyegt.cn/shopping_mall/images/cate01.jpg",
+      "selling_price": 20,
+      "cateType": "汤面",
+      "sales": 100
+    },
+    {
+      "title": "伪造龙肉汤",
+      "cateId": 10011,
+      "cateImg": "https://zjyegt.cn/shopping_mall/images/cate01.jpg",
+      "selling_price": 999,
+      "cateType": "汤面",
+      "sales": 100
+    },
+    {
+      "title": "花胶乌鸡汤2",
+      "cateId": 10006,
+      "cateImg": "https://zjyegt.cn/shopping_mall/images/cate01.jpg",
+      "selling_price": 30,
+      "cateType": "汤面",
+      "sales": 120
+    }
+  ],
+  "披萨": [
+    {
+      "title": "榴莲披萨",
+      "cateId": 10012,
+      "cateImg": "https://zjyegt.cn/shopping_mall/images/cate07.jpg",
+      "selling_price": 50,
+      "cateType": "披萨",
+      "sales": 100
+    },
+    {
+      "title": "烤肉披萨",
+      "cateId": 10013,
+      "cateImg": "https://zjyegt.cn/shopping_mall/images/cate08.jpg",
+      "selling_price": 40,
+      "cateType": "披萨",
+      "sales": 100
+    }
+  ],
+  "三明治": [
+    {
+      "title": "番茄三明治",
+      "cateId": 10018,
+      "cateImg": "https://zjyegt.cn/shopping_mall/images/cate09.jpg",
+      "selling_price": 10,
+      "cateType": "三明治",
+      "sales": 100
+    },
+    {
+      "title": "鸡蛋三明治",
+      "cateId": 10020,
+      "cateImg": "https://zjyegt.cn/shopping_mall/images/cate10.jpg",
+      "selling_price": 10,
+      "cateType": "三明治",
+      "sales": 100
+    }
+  ],
+  "海鲜": [
+    {
+      "title": "辣鸡帝王蟹",
+      "cateId": 10010,
+      "cateImg": "https://zjyegt.cn/shopping_mall/images/cate11.jpg",
+      "selling_price": 100,
+      "cateType": "海鲜",
+      "sales": 100
+    }
+  ],
+  "面饼": [
+    {
+      "title": "凉粉",
+      "cateId": 10003,
+      "cateImg": "https://zjyegt.cn/shopping_mall/images/cate03.jpg",
+      "selling_price": 10,
+      "cateType": "面饼",
+      "sales": 100
+    },
+    {
+      "title": "孤单的面饼",
+      "cateId": 10004,
+      "cateImg": "https://zjyegt.cn/shopping_mall/images/cate12.jpg",
+      "selling_price": 30,
+      "cateType": "面饼",
+      "sales": 100
+    }
+  ],
+  "烤肉2": [
+    {
+      "title": "麻辣烤肉",
+      "cateId": 10001,
+      "cateImg": "https://zjyegt.cn/shopping_mall/images/cate02.jpg",
+      "selling_price": 8,
+      "cateType": "烤肉",
+      "sales": 120
+    }
+  ],
+  "饮料3": [
+    {
+      "title": "抹茶",
+      "cateId": 10007,
+      "cateImg": "https://zjyegt.cn/shopping_mall/images/cate04.jpg",
+      "selling_price": 12,
+      "cateType": "饮料",
+      "sales": 200
+    },
+    {
+      "title": "喵喵茶",
+      "cateId": 10006,
+      "cateImg": "https://zjyegt.cn/shopping_mall/images/cate05.jpg",
+      "selling_price": 20,
+      "cateType": "饮料",
+      "sales": 100
+    },
+    {
+      "title": "清肝美颜柠檬茶",
+      "cateId": 10009,
+      "cateImg": "https://zjyegt.cn/shopping_mall/images/cate06.jpg",
+      "selling_price": 20,
+      "cateType": "饮料",
+      "sales": 100
+    }
+  ],
+  "汤面4": [
+    {
+      "title": "花胶乌鸡汤",
+      "cateId": 10005,
+      "cateImg": "https://zjyegt.cn/shopping_mall/images/cate01.jpg",
+      "selling_price": 20,
+      "cateType": "汤面",
+      "sales": 100
+    },
+    {
+      "title": "伪造龙肉汤",
+      "cateId": 10011,
+      "cateImg": "https://zjyegt.cn/shopping_mall/images/cate01.jpg",
+      "selling_price": 999,
+      "cateType": "汤面",
+      "sales": 100
+    }
+  ],
+  "披萨5": [
+    {
+      "title": "榴莲披萨",
+      "cateId": 10012,
+      "cateImg": "https://zjyegt.cn/shopping_mall/images/cate07.jpg",
+      "selling_price": 50,
+      "cateType": "披萨",
+      "sales": 100
+    },
+    {
+      "title": "烤肉披萨",
+      "cateId": 10013,
+      "cateImg": "https://zjyegt.cn/shopping_mall/images/cate08.jpg",
+      "selling_price": 40,
+      "cateType": "披萨",
+      "sales": 100
+    }
+  ],
+  "三明治6": [
+    {
+      "title": "番茄三明治",
+      "cateId": 10018,
+      "cateImg": "https://zjyegt.cn/shopping_mall/images/cate09.jpg",
+      "selling_price": 10,
+      "cateType": "三明治",
+      "sales": 100
+    },
+    {
+      "title": "鸡蛋三明治",
+      "cateId": 10020,
+      "cateImg": "https://zjyegt.cn/shopping_mall/images/cate10.jpg",
+      "selling_price": 10,
+      "cateType": "三明治",
+      "sales": 100
+    }
+  ],
+  "海鲜7": [
+    {
+      "title": "辣鸡帝王蟹",
+      "cateId": 10010,
+      "cateImg": "https://zjyegt.cn/shopping_mall/images/cate11.jpg",
+      "selling_price": 100,
+      "cateType": "海鲜",
+      "sales": 100
+    }
+  ],
+  "面饼8": [
+    {
+      "title": "凉粉",
+      "cateId": 10003,
+      "cateImg": "https://zjyegt.cn/shopping_mall/images/cate03.jpg",
+      "selling_price": 10,
+      "cateType": "面饼",
+      "sales": 100
+    },
+    {
+      "title": "孤单的面饼",
+      "cateId": 10004,
+      "cateImg": "https://zjyegt.cn/shopping_mall/images/cate12.jpg",
+      "selling_price": 30,
+      "cateType": "面饼",
+      "sales": 100
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="stylesheet" href="normalize.css">
+    <title>shopping-mall</title>
+    <script>
+      (function (doc) {
+        var timeoutAdjust = null;
+        var adjust = function () {
+          var idealViewWidth = window.screen.width;
+          var BASEVALUE = 750;
+          doc.documentElement.style.fontSize = (idealViewWidth / BASEVALUE) * 100 + 'px';
+        };
+        adjust();
+        window.addEventListener('resize', function () {
+          clearTimeout(timeoutAdjust);
+          timeoutAdjust = setTimeout(adjust, 50);
+        }, false);
+      } (document));
+    </script>
+  </head>
+  <body>
+    <noscript>
+      <strong>We're sorry but shopping-mall doesn't work properly without JavaScript enabled. Please enable it to continue.</strong>
+    </noscript>
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+  </body>
+</html>
